@@ -1,0 +1,151 @@
+
+
+#tituloprincipal{
+    margin-bottom: 50px;
+    margin-left: 5px;
+    display: flex;
+    
+}
+
+#logo{
+    margin-right: 10px;
+    width: 100px;            
+   
+}
+.fondo{
+  width:100%;
+  background-image:url(https://img.freepik.com/free-photo/beautiful-shot-sea-with-mountain-distance-clear-sky_181624-2248.jpg?w=1060&t=st=1667135413~exp=1667136013~hmac=7887a090e97afc620aa22a5bff5f02f8a6b0ad91c7beca5682a1789fa27bcb88);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.contenedorbody{
+
+   margin:25px;
+}
+.Contenedorhtml2{
+  
+   margin-right:600px;
+}
+#subtituloA{
+  margin-left:200px;
+}
+
+#imagen1b{
+  margin-left:40px;
+  margin-top:5px;
+}
+#boton1{
+  margin-left:255px;
+}
+.Contenedorhtml3{
+   margin-left:600px;
+   margin-bottom:100px;
+   position:relative;
+   top:-392.5px;
+}
+#subtitulob{
+   margin-left:200px;
+}
+#imagen2{
+  margin-left:40px;
+  margin-top:5px;
+}
+#boton2{
+  margin-left:255px
+}
+.contenedorfooter{
+  background-color: lightblue;
+}
+.nombre{
+  position:relative;
+  margin-left: 1100px;
+  top:-22px;
+}
+.encabezado{
+  margin-bottom: 50px;
+    margin-left: 5px;
+    display: flex;
+}
+
+#fotojordiynico{
+  margin-left:250px;
+}
+#introduccion{
+  border-style: solid; 
+  border-color: black; 
+  margin-left:60px;
+  margin-right:80px;
+}
+#tituloa{
+  color:#4414BF;
+  margin-bottom:20px;
+}
+#imagenrumbos{
+  margin-left:450px;
+  position:relative;
+  margin-top:-55px;
+  
+}
+#textaco{
+  margin-right:750px;
+  margin-left:50px;
+  margin-top:-700px;
+    
+}
+.lodeabajo{
+  margin-top:450px;
+}
+#titulomaniobras{
+  color:#E50071;
+}
+.virada{
+  margin-right:700px;
+}
+.trasluchada{
+  margin-left:700px;
+  margin-top:-100px;
+  position:relative;
+}
+#tituloclases{
+  color:#274E13;
+}
+.standart{
+  margin-left:50px;
+}
+.mixto{
+  margin-left:650px;
+  margin-top:-314px;
+}
+.nacra{
+  margin-left:50px;
+}
+.er{
+  margin-left:650px;
+  margin-top:-314px;
+}
+.wind{
+  margin-left:50px;
+}
+.kite{
+  margin-left:650px;
+  margin-top:-314px;
+  margin-bottom:50px;
+}
+
+.todo{
+  margin-left:500px;
+
+  
+}
+.correoa{
+  margin-left:9px;
+}
+.comentarioa{
+  margin-left:-20px;
+  margin-bottom:10px;
+}
+
+#botonenviar{
+  margin-bottom:50px;
+}
